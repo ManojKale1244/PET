@@ -1,26 +1,19 @@
    #dog{
-    width: 25rem;
+    width: 400px;
     border: 2px solid black;
-    border-radius: 1.5625rem;
-    padding: 0.625rem;
-margin: 0.625rem;
+    border-radius: 25px;
+    padding: 10px;
+margin: 10px;
 background-color: antiquewhite;
 display: inline-block;
 flex-wrap:wrap;
 display-wrap:wrap;
-
-
-
-        
-
-
-
 }
 #photo{
-    width: 23.125rem;
-    border-radius: 1.5625rem;
-    height: 21.875rem;
-    margin-left: 0.8125rem;
+    width: 370px;
+    border-radius: 25px;
+    height: 350px;
+    margin-left: 13px;
 
    
 
@@ -34,11 +27,11 @@ background-color: pink;
     box-shadow: 3px 3px 8px black;
 }
 #cat{
-        width: 25rem;
+        width: 400px;
     border: 2px solid black;
-    border-radius: 1.5625rem;
-    padding: 0.625rem;
-margin: 0.625rem;
+    border-radius: 25px;
+    padding: 10px;
+margin: 10px;
 background-color: antiquewhite;
 display: inline-block;
     flex-wrap:wrap;
@@ -46,10 +39,10 @@ display: inline-block;
 
 }
 img{
-        width: 23.125rem;
-    border-radius: 1.5625rem;
-    height: 21.875;
-    margin-left: 0.8125rem;
+        width: 370px;
+    border-radius: 25px;
+    height: 350px;
+    margin-left: 13px;
 }
 #img:hover{
     box-shadow: 3px 3px 8px black;
